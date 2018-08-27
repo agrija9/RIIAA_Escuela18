@@ -7,7 +7,11 @@ Repo para la escuela de verano de la RIIAA 2018
 
 1. Laptop con Mozilla Firefox o Google Chrome.
 2. [Python 3.6 (anaconda)](https://www.anaconda.com/download/)
+<<<<<<< HEAD
 3. Un ambiente python con varios paquetes instalados. Estos paquetes están descritos dentro de `requirements.txt` o `environment.yml`.
+=======
+3. Un ambiente python con varios paquetes instalados. Estos paquetes estas descritos dentro de `requirements.txt` o `environment.yml`.
+>>>>>>> external_repo/master
 
 
 ### Con Anaconda: Crear un conda environment
